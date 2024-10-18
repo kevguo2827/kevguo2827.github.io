@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a personal website I am making for [STAT 37815: Practical R Programming with Extensions](https://stat.uchicago.edu/academics/course-info/2024-2025-cour ses/autumn-2024-stat-37815-1/) with [Dr. McShane](https://ryanmcshane.com).\nThe website is designed to showcase my work and projects in R programming, as well as other personal and academic endeavors. I plan to update it periodically as I complete new projects and learn additional skills. This platform will serve as a portfolio to highlight my growth in programming and statistical analysis."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home Page",
