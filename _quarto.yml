@@ -5,6 +5,9 @@ project:
 website:
   title: "My Personal Website for STAT 37815" 
   navbar:
+    tools:
+      - icon: github
+        href: https://github.com/kevguo2827/kevguo2827.github.io
     left:
       - href: index.qmd
         text: Home 
