@@ -12,5 +12,6 @@ website:
 format:
   html:
     theme: zephyr
+    mainfont: "'Open Sans', sans-serif"
     # css: my-style.css 
     # toc: true
