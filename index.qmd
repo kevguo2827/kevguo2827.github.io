@@ -1,5 +1,8 @@
 ---
 title: "Home Page"
+about:
+  template: solana
+  image: images/726A6028.JPG
 ---
 
 ## 
